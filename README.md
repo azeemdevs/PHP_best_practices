@@ -9,3 +9,5 @@ The purpose of this repository is to store and practice various PHP exercise que
 - Solve the Most Common Programming Task print Fizz when number is divisible by 3 and print Buzz When Number is divisible by 5 and if the number is divisble by both 3 and 5 then print FizzBuzz otherwise print only the number
 
 - Print the First 10 ten numbers of the Fibonacci Series 
+- Sum of 2 Digit Numbers without + operator.
+- Sum of digits of number
