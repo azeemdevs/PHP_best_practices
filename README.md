@@ -11,3 +11,5 @@ The purpose of this repository is to store and practice various PHP exercise que
 - Print the First 10 ten numbers of the Fibonacci Series 
 - Sum of 2 Digit Numbers without + operator.
 - Sum of digits of number
+- Find The Factorial of a number.
+-  Given an array of numbers print only even numbers and then odd numbers
